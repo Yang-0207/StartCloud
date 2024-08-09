@@ -16,6 +16,10 @@
     <description>start-cloud-server</description>
     <packaging>pom</packaging>
     <url>https://github.com/Yang-0207/StartCloud</url>
+    <modules>
+        <module>sc-common</module>
+        <module>sc-server-manager</module>
+    </modules>
 
 
     <developers>
